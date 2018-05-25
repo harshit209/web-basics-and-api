@@ -1,0 +1,23 @@
+
+Access Token - 
+
+An access token is an object encapsulating the security identity of a 
+process or thread. An access token contains the security credentials for 
+a login session and identifies the user, the user's groups, the user's 
+privileges, and, in some cases, a particular application. The access 
+token should be used as a bearer credential and transmitted in an HTTP 
+authorization header to the API.
+
+Steps for generating access token GITHUB - 
+1. Go to www.github.com
+2. Login to your account.
+3. Go to Settings.
+4. In the Personal Settings list, select Developer Settings.
+5. Choose Personal access tokens.
+6. Click on Generate new token.
+7. Confirm the password.
+8. Enter the token description and select scope.
+9. Click on Generate token.
+
+
+55cbb3b64aee9306c5f9e115eae86c85cbea3204
