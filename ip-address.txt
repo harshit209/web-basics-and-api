@@ -1,0 +1,13 @@
+Steps to get the ip address of Google and Facebook using DNS lookup - 
+1. Go to the DNS lookup site www.mxtoolbox.com
+2. Type the domain name of the website for which you want to get the ip.
+3. Click on DNS Lookup.
+
+Domain name - www.google.com
+ip - 172.217.9.164
+
+Domain name - www.facebook.com
+ip - 157.240.18.35
+
+
+
